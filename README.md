@@ -1,7 +1,5 @@
-# guide-to-install-old-osx-versions
-A simple guide to install old OSX versions.
-
-this guide is base on macOSX Yosemite but works on others versions.
+# Guide to install old macOSX versions
+This guide is base on macOSX Yosemite but works on others versions.
 
 ## Prepare USB key
 Launch *Disk Utility*, choose the USB key and *Erase*; set:
