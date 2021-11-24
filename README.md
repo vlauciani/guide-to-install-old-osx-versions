@@ -1,4 +1,4 @@
-# Guide to install old macOSX versions
+# Guide to install old macOSX versions - bootable USB key
 This guide is base on macOSX Yosemite but works on others versions.
 
 ## Prepare USB key
