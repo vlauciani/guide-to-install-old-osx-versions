@@ -46,7 +46,7 @@ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstall
 - Release the Option key when you see a dark screen showing your bootable volumes.
 - Select the volume containing the bootable installer. Then click the up arrow or press Return.
 
-**NOTE**: before to start the installer, in the first install page go to *Utilities* -> *Terminal* and set the the date using the command `data` with options:
+**!!! NOTE !!!**: before to start the installer, in the first install page go to *Utilities* -> *Terminal* and set the the date using the command `data` with options:
 ```
 MM - 2 digit month  01 - 12
 DD - 2 digit date   01 - 31
@@ -58,5 +58,7 @@ for example date *24-Nov-2021 11:11:00*:
 ```
 -bash-3.2# date 1124101121
 Wed Nov 24 10:11:00 PST 2021
-```
 -bash-3.2#
+```
+
+once that is done go through the install normally.
