@@ -10,8 +10,10 @@ Launch *Disk Utility*, choose the USB key and *Erase*; set:
 Get old version from here:
 - https://support.apple.com/en-us/HT211683
 
+this will download `InstallMacOSX.pkg` file.
+
 ## Extracting the Installer
-Create a wrking dir:
+Create a working dir:
 ```
 cd ~/Desktop
 mkdir -p MacInstall/extract
