@@ -39,3 +39,9 @@ mv Install\ OS\ X\ Yosemite.app /Applications
 ```
 sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
 ```
+
+## Use the bootable installer (Intell processor)
+- Plug the bootable installer into a Mac that is connected to the internet and compatible with the version of macOS you're installing.
+- Press and hold the Option (Alt) ⌥ key immediately after turning on or restarting your Mac.
+- Release the Option key when you see a dark screen showing your bootable volumes.
+- Select the volume containing the bootable installer. Then click the up arrow or press Return.
