@@ -46,10 +46,16 @@ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstall
 - Release the Option key when you see a dark screen showing your bootable volumes.
 - Select the volume containing the bootable installer. Then click the up arrow or press Return.
 
-**!!! NOTE !!!**: to avoid the messagge:
+**!!! NOTE !!!**: If you are receiving the message:
 
 <img width="419" alt="E1BMF" src="https://user-images.githubusercontent.com/16477095/143209841-cd807bb0-d788-4b3a-b9b9-da8a658468de.png">
 
+try to bypass the security check in *Utilities* -> *Terminal*:
+```
+-bash-3.2# installer -pkg /Volumes/Mac\ OS\ X\ Install\ DVD/Packages/OSInstall. mpkg -target /Volumes/Macintosh\ HD/
+```
+
+---
 before to start the installer, in the first install page go to *Utilities* -> *Terminal* and set the the date using the command `data` with options:
 ```
 MM - 2 digit month  01 - 12
