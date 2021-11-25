@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/vlauciani/guide-to-install-old-osx-versions/blob/main/LICENSE)
+
 # Guide to install old macOSX versions - bootable USB key
 This guide is base on macOSX Yosemite but works on others versions.
 
@@ -74,3 +76,14 @@ try to bypass the security check in *Utilities* -> *Terminal*:
 ```
 -bash-3.2# installer -pkg /Volumes/Mac\ OS\ X\ Install\ DVD/Packages/OSInstall. mpkg -target /Volumes/Macintosh\ HD/
 ```
+
+## Contribute
+Thanks to your contributions!
+
+Here is a list of users who already contributed to this repository:
+<a href="https://github.com/vlauciani/gitlabci-include-for-dockerhub-rate-limit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vlauciani/gitlabci-include-for-dockerhub-rate-limit" />
+</a>
+
+## Author
+(c) 2021 Valentino Lauciani vlauciani[at]gmail.com
