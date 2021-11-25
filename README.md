@@ -81,8 +81,8 @@ try to bypass the security check in *Utilities* -> *Terminal*:
 Thanks to your contributions!
 
 Here is a list of users who already contributed to this repository:
-<a href="https://github.com/vlauciani/gitlabci-include-for-dockerhub-rate-limit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vlauciani/gitlabci-include-for-dockerhub-rate-limit" />
+<a href="https://github.com/vlauciani/guide-to-install-old-osx-versions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vlauciani/guide-to-install-old-osx-versions" />
 </a>
 
 ## Author
